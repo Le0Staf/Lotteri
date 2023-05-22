@@ -1,0 +1,11 @@
+C:\Users\lest0823\source\repos\Lotteri\Lotteri\bin\Debug\Lotteri.exe.config
+C:\Users\lest0823\source\repos\Lotteri\Lotteri\bin\Debug\Lotteri.exe
+C:\Users\lest0823\source\repos\Lotteri\Lotteri\bin\Debug\Lotteri.pdb
+C:\Users\lest0823\source\repos\Lotteri\Lotteri\obj\Debug\Lotteri.csproj.AssemblyReference.cache
+C:\Users\lest0823\source\repos\Lotteri\Lotteri\obj\Debug\Lotteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\lest0823\source\repos\Lotteri\Lotteri\obj\Debug\Lotteri.Form1.resources
+C:\Users\lest0823\source\repos\Lotteri\Lotteri\obj\Debug\Lotteri.Properties.Resources.resources
+C:\Users\lest0823\source\repos\Lotteri\Lotteri\obj\Debug\Lotteri.csproj.GenerateResource.cache
+C:\Users\lest0823\source\repos\Lotteri\Lotteri\obj\Debug\Lotteri.csproj.CoreCompileInputs.cache
+C:\Users\lest0823\source\repos\Lotteri\Lotteri\obj\Debug\Lotteri.exe
+C:\Users\lest0823\source\repos\Lotteri\Lotteri\obj\Debug\Lotteri.pdb
